@@ -1,0 +1,6 @@
+{
+  "name": "Edu Care Academy Trust",
+  "description": "Edu Care Academy Trust, established in 2018 in Coimbatore, focuses on career guidance, skill development, academic support, youth empowerment and community welfare.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
